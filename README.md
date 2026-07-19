@@ -55,5 +55,5 @@ or npm
 4. Moment.js
 
 
-<p align="center" bold> <b>Built with 💓 by Hasan</b></p>
+<p align="center" bold> <b>Built with 💓 by Srikanth bn</b></p>
 
